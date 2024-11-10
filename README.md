@@ -1,6 +1,8 @@
-## Hi👋, I'm Max
+## Hello, there 👋
+##    I'm Max
 
-Welcome to my corner
+Glad to see you here!
+Feel free to catch me up on latest news in dev world.
 <!--
 **moresol/moresol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
